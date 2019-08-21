@@ -1,4 +1,4 @@
-def my_collect(array=nil)
+def my_collect(array==nil)
   yield
 end 
 
